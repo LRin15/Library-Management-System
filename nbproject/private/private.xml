@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/Connect.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/IssueBookController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/ChatServerView.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/AddMahasiswa.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/SignUpController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/IssueBook.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/Book.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/Mahasiswa.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/MahasiswaDAO.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/IssueDAO.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/History.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/Issue.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/ReturnDAO.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/Loading.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/HistoryController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/Home.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/UserDAO.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/AddMahasiswaController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/LoginView.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/ReturnBookController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/SignUpView.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/AddBookController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/ReturnBook.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/ChatClientView.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/LibraryManagementSystem.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/User.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/view/AddBook.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/Return.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/LoginController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/ChatServerController.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/model/BookDAO.java</file>
+            <file>file:/C:/PBOcode/LibraryManagementSystem/src/librarymanagementsystem/controller/ChatClientController.java</file>
+        </group>
+    </open-files>
+</project-private>
